@@ -171,7 +171,7 @@ graph LR
 - Kubernetes for App Developers (LFD459)
 - Certified Kubernetes Application Developer
 - TOGAF® Enterprise Architecture Foundation
-- Currently chasing AZ-204 Developing Solutions for Microsoft Azure certificates
+- Currently chasing TOGAF Enterprise Architecture Practitioner & AZ-204 Developing Solutions for Microsoft Azure certificates
 
 ## 🕹️ Outside the IDE
 While my professional life is spent at the computer, I like to spend even more time close to it 😲... I’m a dedicated gamer who enjoys the tactical side of play. It’s my favorite way to reset, while having fun with my friends online. My other hobbies are cycling, hiking with my family and friends, or reading a good book, well or even a bad one 😄, and discuss it later with someone.
